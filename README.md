@@ -37,7 +37,7 @@ Soy un estudiante de Análisis y Desarrollo de Software del SENA con una fuerte 
 - 💡 *gamma.app* – presentaciones con IA  
 - 💡 *gitmind.com* – mapas mentales y organización de ideas
 
-- 🤖 Objetivos
+#🤖 Objetivos
 
 Adquirir conocimientos avanzados que me permitan fortalecer mis habilidades técnicas y crecer tanto a nivel personal como profesional. Busco aprender de manera constante sobre el desarrollo de aplicaciones, la resolución de problemas y el uso de nuevas tecnologías, con el fin de aportar soluciones eficientes y de calidad. Además, aspiro a ayudar de forma significativa a las personas y a las empresas, contribuyendo con ideas innovadoras y un trabajo responsable que genere un impacto positivo en cada proyecto en el que participe.
 
